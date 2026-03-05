@@ -4,6 +4,7 @@
 # Prints "Hello, World" to the terminal window.
 def main():
     print("Hello, World")
+    print("Elyne you can do this")
 
 if __name__ == "__main__":
     main()
