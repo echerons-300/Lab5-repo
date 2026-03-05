@@ -5,6 +5,7 @@
 def main():
     print("Hello, World")
     print("Elyne you can do this")
+    print("Kingsley is stranded")
 
 if __name__ == "__main__":
     main()
